@@ -153,6 +153,6 @@ const styles = StyleSheet.create({
   clearButton: {
     marginBottom: 10,
     marginTop:10,
-    backgroundColor: '#ff5c5c', // Red button for clear
+    backgroundColor: '#ff0000ff', // Red button for clear
   },
 });
